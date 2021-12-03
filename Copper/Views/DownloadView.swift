@@ -2,7 +2,7 @@
 //  DownloadView.swift
 //  Copper
 //
-//  Created by user.admin on 30/11/2021.
+//  Created by Richard Pickup on 30/11/2021.
 //
 
 import SwiftUI

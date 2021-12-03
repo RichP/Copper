@@ -2,7 +2,7 @@
 //  MockApiClient.swift
 //  CopperTests
 //
-//  Created by user.admin on 01/12/2021.
+//  Created by Richard Pickup on 01/12/2021.
 //
 import Combine
 import Foundation
